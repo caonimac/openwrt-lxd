@@ -1,5 +1,5 @@
 {
-    "architecture": "x86_64",
+    "architecture": "aarch64",
     "creation_date": @TIMESTAMP@,
     "properties": {
         "architecture": "x86_64",
